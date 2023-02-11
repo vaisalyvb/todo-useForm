@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todo-useForm/static/css/main.073c9b0a.css",
+    "main.js": "/todo-useForm/static/js/main.103f2d72.js",
+    "static/js/787.1c4abe37.chunk.js": "/todo-useForm/static/js/787.1c4abe37.chunk.js",
+    "index.html": "/todo-useForm/index.html",
+    "main.073c9b0a.css.map": "/todo-useForm/static/css/main.073c9b0a.css.map",
+    "main.103f2d72.js.map": "/todo-useForm/static/js/main.103f2d72.js.map",
+    "787.1c4abe37.chunk.js.map": "/todo-useForm/static/js/787.1c4abe37.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.103f2d72.js"
+  ]
+}
